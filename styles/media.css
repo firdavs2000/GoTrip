@@ -1,0 +1,101 @@
+@media (max-width: 900px) {
+    .nav{
+        display: none;
+    }
+
+    .search{
+        display: none;
+    }
+
+    .header-menu-button {
+        display: flex;
+        background-color: #fff;
+        color: black;
+    }
+    
+    .header .header-logo .logo-img {
+        width: 80px;
+        height: auto;
+    }
+    .intro-title {
+        font-size: 40px;
+        color: white;
+    }
+    .intro-text {
+        font-size: 20px;
+        color: white;
+    }
+    .intro-link {
+        font-family: "Inter";
+        font-size: 14px;
+        padding: 7px 34px 7px 33px;
+        border-radius: 50px;
+    }
+    .about{
+      flex-direction: column;  
+    }
+    .main-news {
+        margin-top:20px;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .about-img{
+        width: 100%;
+    }
+    .section-img{
+        width: 100%;
+        height: auto;
+    }
+    .about-text {
+        padding: 9px 0;
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .catalog-title {
+        margin-top: 50px;
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 33px
+    }
+    .img-text {
+        font-size: 18px;
+        line-height: 20px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    .contacts{
+        flex-direction: column;
+    }
+    .contacts-title {
+        margin-top: 25px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .contacts-text {
+        padding-top: 15px;
+        font-size: 14px;
+        text-align: center;
+    }
+    .contacts-right{
+        text-align: center;
+    }
+    .contacts-number {
+        padding-top: 25px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .contacts-email {
+        font-size: 14px;
+    }
+    .footer {
+        margin-top: 25px;
+    }
+    .footer-list {
+        padding-bottom: 25px;
+    }
+    
+
+}
