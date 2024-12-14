@@ -6,6 +6,9 @@
     .search{
         display: none;
     }
+    .header{
+        padding: 0;
+    }
 
     .header-menu-button {
         display: flex;
@@ -32,7 +35,8 @@
         border-radius: 50px;
     }
     .about{
-      flex-direction: column;  
+      flex-direction: column;
+      padding: 0;  
     }
     .main-news {
         margin-top:20px;
@@ -54,6 +58,9 @@
         line-height: 18px;
         margin-bottom: 10px;
     }
+    .catalog{
+        padding: 0;
+    }
     .catalog-title {
         margin-top: 50px;
         font-size: 20px;
@@ -68,6 +75,7 @@
     }
     .contacts{
         flex-direction: column;
+        padding: 0;
     }
     .contacts-title {
         margin-top: 25px;
@@ -92,6 +100,7 @@
     }
     .footer {
         margin-top: 25px;
+        padding: 0;
     }
     .footer-list {
         padding-bottom: 25px;
