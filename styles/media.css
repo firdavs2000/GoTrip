@@ -77,18 +77,14 @@
         flex-direction: column;
         padding: 0;
     }
-    @media {
-        .contacts-title{
-            max-width: 750px ;
-            text-align: center;
-        }
-    }
     .contacts-title {
+        max-width: 800px;
         margin-top: 25px;
         font-size: 20px;
         text-align: center;
     }
     .contacts-text {
+        max-width: 800px;
         padding-top: 15px;
         font-size: 14px;
         text-align: center;
