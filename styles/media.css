@@ -78,13 +78,11 @@
         padding: 0;
     }
     .contacts-title {
-        max-width: 800px;
         margin-top: 25px;
         font-size: 20px;
         text-align: center;
     }
     .contacts-text {
-        max-width: 800px;
         padding-top: 15px;
         font-size: 14px;
         text-align: center;
